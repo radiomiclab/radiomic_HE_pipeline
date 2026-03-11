@@ -1,4 +1,4 @@
-# Quantitative Brain MRI Enhances Clinical Stratification of Hepatic Encephalopathy Beyond MELD: A Multicenter Study
+# MRI-based radiomics pipeline for Hepatic Encephalopathy (HE) stratification
 
 Official implementation and documentation for the multicenter study on Hepatic Encephalopathy (HE) stratification using MRI-based radiomics.
 
@@ -24,3 +24,4 @@ Users and reviewers are requested to cite the Zenodo DOI associated with this re
 
 ---
 *Anonymized for Double-Blind Peer Review.*
+
